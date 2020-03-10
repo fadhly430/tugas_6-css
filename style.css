@@ -1,0 +1,37 @@
+P{
+font-family: serif;
+font-size: 15px;
+text-transform: lowercase;
+background-color: aqua;
+overflow-y: scroll;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+text-transform: full-width;
+
+
+}
+
+.satu{
+outline-width: 10px;
+outline-color: red;
+outline-style: dotted;
+width: 260px;
+height: 70px;
+}
+.dua{
+outline-style: solid;
+outline-width: 4px;
+outline-color: green;
+width: 250px;
+height: 70px;
+}
+
+.tiga{
+outline-style: dashed;
+outline-width: 22px;
+outline-color: blue;
+width: 300px;
+height: 70px;
+}
